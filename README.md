@@ -9,7 +9,9 @@ of how well the model performed.
 # Installation
 
 python -m venv my_virtual_env
+
 my_virtual_env\Scripts\activate 
+
 pip install -r requirements.txt
 
 # Requirements
